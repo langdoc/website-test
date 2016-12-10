@@ -24,8 +24,9 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  ELAN: "elan"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Langdoc-blog: "http://langdoc.github.io/langdoc/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://langdoc.github.io"
