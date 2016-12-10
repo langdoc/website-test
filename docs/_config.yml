@@ -38,7 +38,7 @@ navbar-links:
   R:
     - FRelan: "https://github.com/langdoc/FRelan"
     - ikdp2lat: "https://github.com/langdoc/ikdp2lat"
-  Resources:
+  Related:
     - Langdoc-blog: "http://langdoc.github.io"
     - GiellaTekno: "http://giellatekno.uit.no/"
 #  Author's home: "http://langdoc.github.io"
@@ -54,9 +54,9 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Niko Partanen
   email: "nikotapiopartanen@gmail.com"
-  facebook: yourname  # eg. nikopartanen
-  github: yourname    # eg. nikopartanen
-  twitter: yourname   # eg. nikopartanen
+  facebook: nikopartanen  # eg. nikopartanen
+  github: langdoc    # eg. nikopartanen
+  twitter: nikopartanen   # eg. nikopartanen
   youtube: channel/langdoc   # eg. user/daattali or channel/daattali
 
 # Select which links to show in the footer
