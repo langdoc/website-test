@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://langdoc.github.io"
+url: "http://langdoc.github.io/FRechdoc"
 baseurl: "/website-test"
 
 # If you are building a GitHub project page then use these settings:
@@ -17,13 +17,13 @@ baseurl: "/website-test"
 title: Technical documentation about tools used in Freiburg
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: This website contains the documentation of tools and conventions used in different Freiburg related language documentation projects.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+#  About Me: "aboutme"
   ELAN:
     - Standards: "elan"
     - Template: "elantiers"
@@ -38,7 +38,7 @@ navbar-links:
   Resources:
     - Langdoc-blog: "http://langdoc.github.io"
     - GiellaTekno: "http://giellatekno.uit.no/"
-  Author's home: "http://langdoc.github.io"
+#  Author's home: "http://langdoc.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
