@@ -32,9 +32,12 @@ navbar-links:
     - Transcriptions: "transcription"
     - GRAID: "graid"
   Tools:
-    - Tools: "tools"
+    - Tools listing: "tools"
     - Toolbox: "toolbox"
     - TLA: "tla"
+  R:
+    - FRelan: "https://github.com/langdoc/FRelan"
+    - ikdp2lat: "https://github.com/langdoc/ikdp2lat"
   Resources:
     - Langdoc-blog: "http://langdoc.github.io"
     - GiellaTekno: "http://giellatekno.uit.no/"
